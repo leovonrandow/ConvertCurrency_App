@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Prova1_Leonardo_von_Randow</string>
+    <string name="titulo">Escolha a moeda que deseja converter</string>
+    <string name="hint1">Preencha com o valor a ser convertido</string>
+    <string name="dolar">Dólar</string>
+    <string name="euro">Euro</string>
+    <string name="rublo">Rublo</string>
+    <string name="dirra">Dirrã</string>
+    <string name="iene">Iene</string>
+    <string name="rupia">Rupia</string>
+    <string name="label">Conversão em </string>
+
+    <string name="dolar_sign">US$</string>
+    <string name="euro_sign">€</string>
+    <string name="rublo_sign">₱</string>
+    <string name="iene_sign">¥</string>
+    <string name="rupia_sign">INR</string>
+    <string name="label_sign">Conversão em </string>
+
+</resources>
